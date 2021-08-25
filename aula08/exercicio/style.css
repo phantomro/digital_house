@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@300&display=swap');
+
+
+
+
+body {
+
+    background-color: darkslategray;
+
+}
+
+div {
+
+    background-image: url('https://conteudo.imguol.com.br/c/esporte/46/2020/06/09/detalhe-do-autodromo-de-interlagos-na-cidade-de-sao-paulo-1591735511837_v2_900x506.jpg.webp');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.assunto{
+
+    color: darkorange;
+    font-style: italic;
+    font-display: #fff;
+
+}
+

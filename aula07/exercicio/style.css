@@ -1,0 +1,32 @@
+body{
+
+    background-color: rgb(223, 215, 185);
+    
+}
+
+.titulo-principal{
+
+    color: #0d1b97;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 26px;
+}
+
+.job-title{
+
+    background-color: 1726ad;
+    color: crimson;
+    font-weight: bold;
+}
+
+p{
+
+    color: darkblue;
+    font-style: italic;
+    font-family: fantasy;
+}
+
+#higth{
+
+    color: darkred;
+    font-family: monospace;
+}

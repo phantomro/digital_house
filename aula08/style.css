@@ -1,0 +1,17 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+
+.titulo {
+
+    color: #e93b5b;
+    font-family: 'Roboto', arial, sans-serif;
+}
+
+div {
+
+    height: 200px;
+    background-image: url('https://www.sunsetweb.com.br/img/posts/postagens/20190129143724974/800/143724290120192577.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}

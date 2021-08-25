@@ -1,0 +1,31 @@
+/*comentario*/
+body{
+
+    background-color: grey;
+}
+
+p{
+    color: brown;
+}
+
+.texto-principal{
+
+    color: chartreuse;
+}
+
+.titulo{
+    background-color: greenyellow;
+    color: darkblue;
+    font-size: 24px;
+    font-style: oblique;
+}
+
+#outroTitulo{
+
+    color: fuchsia;
+}
+
+.negrito{
+
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
