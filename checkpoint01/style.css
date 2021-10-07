@@ -1,0 +1,64 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@700&display=swap');
+
+body {
+    background-image: 
+    url('https://a.cdn-hotels.com/gdcs/production68/d1404/1c3ca0ae-7940-430e-837b-70f824cebe7c.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode: overlay; 
+    font-family: 'Caveat', cursive;
+}
+
+header {
+    padding-top: 12px;
+    padding-bottom: 12px; 
+}
+
+main {
+    padding: 20px;
+    
+}
+h1 {
+    font-size: 75px;
+    color: rgb(34, 42, 78);
+    padding: 50px;
+    text-align: center;
+}
+
+p {
+    font-size: 30px;
+    color: #062d68;   
+    text-align: center;
+    padding-top: 05px;
+}
+
+h2 {
+    color: #0026ffa8;
+    font-size: 2rem;
+}
+
+.text {
+    font-family: '', sans-serif;
+    color: black;
+    padding: 30px;
+    margin: auto;
+    width: 60rem;
+    height: 20rem;
+   
+}
+
+.conteudo {
+    color: black;
+    font-weight: bold;
+    line-height: 30px;
+}
+.video{
+    width: 425px;
+    height: 350px;
+    margin-top: auto;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 10px;
+    position: center;
+}
